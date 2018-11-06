@@ -1,3 +1,9 @@
+/*      PBO02
+ *   Nama  : TEGUH SISWANTO
+ *   NIM   : 10117065
+ *   Kelas : IF-2 / III
+ *   Tanggal/Jam : 6 November 2018 / 08.50 AM
+ */
 public class Main {
     public static void main(String[] args) {
         Rnb blues = new Rnb();
