@@ -1,5 +1,5 @@
 public class NewSkul extends Hardcore{
-    public String genreNewSkul(String artistName) {
-
-        return null;}
+    public void genreNewSkul(String artistName) {
+        System.out.println(artistName+" adalah musisi NewSkul Hardcore");
+    }
 }
