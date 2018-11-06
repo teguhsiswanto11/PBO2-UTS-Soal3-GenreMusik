@@ -1,4 +1,4 @@
-/*      PBO02
+/*      PBO2
  *   Nama  : TEGUH SISWANTO
  *   NIM   : 10117065
  *   Kelas : IF-2 / III
